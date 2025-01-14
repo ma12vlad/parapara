@@ -1,7 +1,9 @@
 [Desktop Entry]
 Name=ParaPara
 GenericName=Image Viewer
+GenericName[ru]=Просмотр изображений
 Comment=View image files
+Comment[ru]=Просмотр файлов изображений
 MimeType=image/jpeg;image/gif;image/png;image/bmp;image/vnd.microsoft.icon;
 Exec=com.github.aharotias2.parapara %F
 Icon=com.github.aharotias2.parapara
